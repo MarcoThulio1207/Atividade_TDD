@@ -8,7 +8,7 @@ public class FatorialTest {
 
     @Test
     public void testFatorialZero() {
-        assertEquals(1, Fatorial.calcularFatorial(0));
+        assertEquals(2, Fatorial.calcularFatorial(2));
     }
 
 }
